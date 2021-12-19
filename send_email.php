@@ -85,7 +85,6 @@ $msg .= "</tr>";
 
 $msg .= "</table>";
 
-$msg .= "<img src='Coid_vaccine_certificate.jpg'>";
 $msg .= "</body>";
 $msg .= "</html>";
 				
